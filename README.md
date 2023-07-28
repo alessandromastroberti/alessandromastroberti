@@ -1,16 +1,41 @@
-### Hi there 👋
+<!-- Heading -->
+<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Alessandro Mastroberti</h3>
 
-<!--
-**alessandromastroberti/alessandromastroberti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <!-- About section -->
 
-Here are some ideas to get you started:
+---
+✨ I am a precise, motivated person who is always willing to learn and improve.
+I have a bachelor's degree in Management Engineering and am currently studying data engineering.
+I am passionate about Python, SQL, ETL (Extract, Transform, Load), data visualization and Big Data management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- code gif-->
+
+- 💬 Ask me about: Python, Django, Flask, , Spark, PowerBI, Content Creation.
+
+- - 🌱 I’m currently learning: Hadoop | Hive | Scala 
+
+- 📫 How to reach me: [@Alessandro Mastroberti](https://www.linkedin.com/in/alessandromastroberti/)
+
+<!-- About section: END -->
+
+
+<!-- Conecct section -->
+
+<h2 align="center">Connect with me </h3>
+  <p>
+      <a href="https://www.linkedin.com/in/alessandromastroberti/">
+        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/egwuenugift" alt="LinkedIn Badge">
+      </a>
+      <a href="https://www.instagram.com/mastro__93/">
+        <img src="https://img.shields.io/badge/-Instagram-informational?style=plastic&amp;labelColor=informational&amp;logo=Instagram&amp;link=https://twitter.com/Dev_180Memes" alt="Instagram Badge">
+      </a>
+      <a href="https://www.facebook.com/alessandro.mastroberti/">
+        <img src="https://img.shields.io/badge/-Facebook-informational?style=plastic&amp;labelColor=informational&amp;logo=Facebook&amp;link=https://twitter.com/Dev_180Memes" alt="Facebook Badge">
+      </a>
+  </p>
+
+<!-- THE END -->
+
+
+
+
