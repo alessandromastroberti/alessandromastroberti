@@ -1,5 +1,5 @@
 <!-- Heading -->
-<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Alessandro Mastroberti</h3>
+<h3><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Alessandro Mastroberti</h3>
 
  <!-- About section -->
 
@@ -21,7 +21,7 @@ I am passionate about Python, SQL, ETL (Extract, Transform, Load), data visualiz
 
 <!-- Conecct section -->
 
-<h2 align="center">Connect with me </h3>
+<h2>Connect with me </h3>
   <p>
       <a href="https://www.linkedin.com/in/alessandromastroberti/">
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/egwuenugift" alt="LinkedIn Badge">
