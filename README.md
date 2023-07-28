@@ -14,7 +14,7 @@ I am passionate about Python, SQL, ETL (Extract, Transform, Load), data visualiz
 
 - 🌱 I’m currently learning: Hadoop | Hive | Scala.
 
-- 📫 How to reach me: [@Alessandro Mastroberti](mailto:tuaindirizzoemail@example.com)
+- 📫 How to reach me: [@Alessandro Mastroberti](mailto:ale.mastro93@gmail.com)
 
 <!-- About section: END -->
 
