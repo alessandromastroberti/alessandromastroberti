@@ -12,7 +12,7 @@ I am passionate about Python, SQL, ETL (Extract, Transform, Load), data visualiz
 
 - 💬 Ask me about: Python, Django, Flask, , Spark, PowerBI, Content Creation.
 
-- - 🌱 I’m currently learning: Hadoop | Hive | Scala 
+- 🌱 I’m currently learning: Hadoop | Hive | Scala 
 
 - 📫 How to reach me: [@Alessandro Mastroberti](https://www.linkedin.com/in/alessandromastroberti/)
 
